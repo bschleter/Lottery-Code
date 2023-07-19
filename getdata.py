@@ -1,7 +1,4 @@
-####I did all this work and code and realized I have to subscribe to the API###
-##You can login and create an account but also must subscribe to the API, be aware. ###
-#I pushed this to git because it was an hour or so of prelimanary work before using torch, maybe someone can use it. #
-#In theory theres another API out there, could not find# 
+
 import requests
 import pandas as pd
 import os
