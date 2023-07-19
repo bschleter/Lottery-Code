@@ -1,10 +1,9 @@
 # Powerball Lottery-Code
 
-I did this work and code and realized I have to subscribe to the API within the code-RapidAPI
-You can login and create an account but also must subscribe to the API, be aware. 
+I did this work and code and realized I have to subscribe to the API within the code-RapidAPI.
+You can login and create an account but also must subscribe to the API.
 
-I pushed this to git because it was an hour or so of prelimanary work before using torch, maybe someone can use it. 
-In theory theres another API out there, could not find
+I pushed this to git because it was an hour of prelimanary work before using torch, maybe someone can use it. 
 
 
 ## Clone the repo
