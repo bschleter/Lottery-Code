@@ -10,7 +10,7 @@ In theory theres another API out there, could not find
 # Clone the repo
 simply clone it. 
 
-```git clone www.github.com/bschleter/lottery-code
+git clone www.github.com/bschleter/lottery-code
 
 
 ##Begin by creating a .env file
